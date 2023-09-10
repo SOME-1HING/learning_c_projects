@@ -6,6 +6,8 @@ This repository contains basic C programs That I made during my C learning journ
 | ---------------------------- | --------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Armstrong Number             | Solution1 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/GCD_LCM/Solution1.c)                      |
 |                              |           |                                                 |                                                                                                              |
+| Character Identification     | Solution1 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Character_Identification/Solution1.c)     |
+|                              |           |                                                 |                                                                                                              |
 | Factorial                    | Solution1 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Factorial/Solution1.c)                    |
 |                              | Solution2 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Factorial/Solution2.c)                    |
 |                              |           |                                                 |                                                                                                              |
@@ -22,3 +24,5 @@ This repository contains basic C programs That I made during my C learning journ
 |                              | Solution2 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Palindrome_Sequence/Solution2.c)          |
 |                              |           |                                                 |                                                                                                              |
 | Roots of Quadratic Equations | Solution1 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Roots_of_Quadratic_Equations/Solution1.c) |
+|                              |           |                                                 |                                                                                                              |
+| To Uppercase                 | Solution1 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/To_Uppercase/Solution1.c)                 |

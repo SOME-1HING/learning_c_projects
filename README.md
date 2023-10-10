@@ -14,6 +14,7 @@ This repository contains basic C programs That I made during my C learning journ
 | Fibonacci Sequence           | Solution1 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Fibonacci_Sequence/Solution1.c)           |
 |                              | Solution2 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Fibonacci_Sequence/Solution2.c)           |
 |                              | Solution3 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Fibonacci_Sequence/Solution3.c)           |
+|                              | Solution4 | [devag7](https://github.com/devag7)             | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/Fibonacci_Sequence/Solution4.c)           |
 |                              |           |                                                 |                                                                                                              |
 | GCD And LCM                  | Solution1 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/GCD_LCM/Solution1.c)                      |
 |                              | Solution2 | [SOME-1HING](https://www.github.com/SOME-1HING) | [Link](https://github.com/SOME-1HING/learning_c_projects/blob/main/GCD_LCM/Solution2.c)                      |

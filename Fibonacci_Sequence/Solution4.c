@@ -1,9 +1,12 @@
 #include <stdio.h>
+#include <conio.h>
 
 int main()
 {
   int n;
   int a = 0, b = 1 , c = 1;
+
+  clrscr();
    
   printf("Enter the number of terms: ");
   scanf("%d", &n);
@@ -17,5 +20,8 @@ int main()
     a = b;
     b = c;
   }
+
+  getch();
+  
   return 0;
 }
